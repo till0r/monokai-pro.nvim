@@ -6,6 +6,7 @@ function M.get(c, _, hp)
     SnacksDashboardNormal = { bg = c.editor.background, fg = c.editor.foreground },
     SnacksDashboardDesc = { fg = c.base.dimmed1 },
     SnacksDashboardIcon = { fg = c.base.blue },
+    SnacksDashboardDir = { fg = c.dark2 },
   }
 end
 
